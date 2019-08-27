@@ -1,0 +1,55 @@
+.custom-container {
+    margin-top: 21px;
+}
+
+.test-head {
+    font-size: 22px;
+    color: #044579;
+}
+
+.disgree {
+    padding-right: 13px;
+    font-weight: 600;
+    color: #f00;
+}
+
+.agree {
+    color: #0f8c0f;
+    font-weight: 600;
+}
+
+.choice {
+    padding-top: 10px;
+}
+
+.result {
+    border: solid 1px;
+    padding: 15px;
+    border-color: #dcdcdc;
+    border-radius: 5px;
+}
+
+.dimension {
+    font-size: 18px;
+    font-weight: 600;
+    color: #a2a2a2;
+}
+
+.result-indicator {
+    padding: 3px 54px;
+}
+
+.enable {
+    background: #856cd2;
+}
+
+.disable {
+    background: #ececec;
+}
+
+#QuestionsSubmits {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: block;
+}
