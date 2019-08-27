@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/*Route::get('/', function () {
+    return view('index');
+});*/
+Route::get('/', 'UserController@showQuestion');
+Route::post('/result', 'UserController@showResult');
